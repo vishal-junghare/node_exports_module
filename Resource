@@ -1,0 +1,27 @@
+*********Default Exports
+
+
+Exporting a variable while defining
+Exporting a variable after defining
+Exporting a value or an expression
+Exporting a function while defining
+Exporting a function after defining
+Exporting a class while defining
+Exporting a class after defining
+
+
+
+
+
+
+Named Exports
+
+
+
+Exporting multiple variables while defining
+Exporting multiple variables after defining
+Exporting multiple values and expressions
+Exporting multiple functions while defining
+Exporting multiple functions after defining
+Exporting multiple classes while defining
+Exporting multiple classes after defining
